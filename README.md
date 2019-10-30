@@ -1,2 +1,2 @@
 # APTOSProject
-Kaggle Competition
+Deep Learning Image Detection Model to predict Diabetic Retinopathy.
