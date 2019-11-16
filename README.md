@@ -6,5 +6,8 @@ SUBJECT - DATA SCIENCE PROGRAMMING
 
 PROFESSOR – DR. BALAJI PADMANABHAN
 
+DATA - https://www.kaggle.com/c/aptos2019-blindness-detection
+
+
 
 
